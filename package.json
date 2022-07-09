@@ -1,5 +1,6 @@
 {
   "name": "shopping-cart",
+  "homepage": "https://chistoperez.github.io/React-ShoppingCart-useReducer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
