@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-ShoppingCart-useReducer/static/css/main.cf17ae21.css",
+    "main.js": "/React-ShoppingCart-useReducer/static/js/main.ded5157c.js",
+    "index.html": "/React-ShoppingCart-useReducer/index.html",
+    "main.cf17ae21.css.map": "/React-ShoppingCart-useReducer/static/css/main.cf17ae21.css.map",
+    "main.ded5157c.js.map": "/React-ShoppingCart-useReducer/static/js/main.ded5157c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf17ae21.css",
+    "static/js/main.ded5157c.js"
+  ]
+}
